@@ -2,7 +2,7 @@
 function App() {
   return (
 <>
-<h1>Ebrahem Mohamed</h1>
+<h1>Ebrahem</h1>
 </>
   );
 }
